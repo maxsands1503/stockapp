@@ -1,0 +1,16 @@
+{
+  "name": "stockapp",
+  "version": "1.0.0",
+  "description": "An App for Data Visualization built on Node, Express, Angular, D3 and  Postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Sands",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "knex": "^0.11.10",
+    "pg": "^6.1.0"
+  }
+}
